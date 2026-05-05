@@ -1,0 +1,29 @@
+{
+  "group_number": "18",
+  "team_members": [
+    "Mustafa Kemal Demiralay",
+    "Efe Dağ"
+  ],
+  "student_numbers": {
+    "Mustafa Kemal Demiralay": "220611032",
+    "Efe Dağ": "220611015"
+  },
+  "github_url": "To be added in the final submission after repository finalization.",
+  "member_contributions": [
+    "Mustafa Kemal Demiralay: Data collection, initial project structure, and report writing.",
+    "Efe Dağ: Feature extraction, model comparison, and interpretation of the results."
+  ],
+  "resources": [
+    "Python",
+    "librosa",
+    "scikit-learn",
+    "matplotlib",
+    "GitHub",
+    "Course notes",
+    "Project brief"
+  ],
+  "ai_prompts": [
+    "Prepare a Phase 1 starter project for speech emotion classification using classical machine learning methods.",
+    "Create a short technical report draft in English for the BIL216 final project."
+  ]
+}

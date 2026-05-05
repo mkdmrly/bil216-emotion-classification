@@ -1,0 +1,10 @@
+REQUIRED VALUE FOR THE SCOREBOARD
+
+Main value required for the scoreboard:
+- Test accuracy
+
+This value will be generated in the `results/metrics.json` file under the
+`test_accuracy` field after training with the real dataset.
+
+Example command:
+python3 train.py --data-dir data/raw --model auto

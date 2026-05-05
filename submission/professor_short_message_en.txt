@@ -1,0 +1,8 @@
+Please find our BIL216 Final Project Phase 1 submission attached.
+
+At this stage, we prepared a Python-based baseline model for speech emotion classification. The system
+extracts features such as ZCR, RMS, pitch, spectral descriptors, and MFCC-based features from audio
+recordings, and then compares SVM, Random Forest, KNN, and Logistic Regression models to build the
+initial working classification pipeline.
+
+The technical report and project files are attached.

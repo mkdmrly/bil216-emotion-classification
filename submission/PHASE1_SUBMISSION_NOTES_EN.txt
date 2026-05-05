@@ -1,0 +1,30 @@
+PHASE 1 SUBMISSION PACKAGE
+
+Files prepared in this folder:
+
+1. submission/FinalProject_GROUP18_Phase1_Report.pdf
+   Short technical report for Phase 1.
+
+2. submission/professor_short_message_en.txt
+   Short message that can be used for Blackboard or email submission.
+
+3. train.py and src/emotion_baseline/
+   Working Python project.
+
+4. README.md
+   Installation and execution instructions.
+
+NOTE:
+Since the real dataset is not included in this workspace yet, the final accuracy value and confusion
+matrix have not been generated automatically.
+
+Once the dataset is added, the final result-based version can be created with:
+
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python3 train.py --data-dir data/raw --model auto
+python3 generate_phase1_report.py
+
+The updated report file will be:
+submission/FinalProject_GROUP18_Phase1_Report.pdf
